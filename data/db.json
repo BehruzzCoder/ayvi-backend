@@ -1,0 +1,14 @@
+{
+  "settings": {
+    "companyName": "Klimat Hause",
+    "phone": "+998712000000",
+    "email": "info@klimathause.uz",
+    "address": "Toshkent, O'zbekiston",
+    "telegramUrl": "https://t.me/klimathause_test",
+    "whatsappUrl": "https://wa.me/998901234567?text=Salom%20Klimat%20Hause"
+  },
+  "productOverrides": {},
+  "customProducts": [],
+  "users": [],
+  "orders": []
+}
